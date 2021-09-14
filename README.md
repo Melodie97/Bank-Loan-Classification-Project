@@ -24,7 +24,7 @@ In this project I worked on a binary classification problem, where I built sever
 ![Feature correlation](images/Class distribution.png)
 ## Usage
 
-This project is best viewed in a notebook viewer, which can be accessed here. In this notebook, you will find a walk through of the work done and the respective code.
+This project is best viewed in a notebook viewer, which can be accessed [here]. In this notebook, you will find a walk through of the work done and the respective code.
 
 ## Business Value
 
