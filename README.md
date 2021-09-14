@@ -19,7 +19,6 @@ In this project I worked on a binary classification problem, where I built sever
 
 ### Feature correlations
 
-![Correlation between Features](C:\Users\user\Downloads\heatmap correlation.png "")
 
 ### Target class distribution
 
