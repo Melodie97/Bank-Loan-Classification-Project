@@ -5,7 +5,7 @@
 - Findings
   - Feature correlations
   - Target class distribution
-- Usage
+- Scoring Metric
 - Business Value 
 
 ## Background
@@ -22,9 +22,14 @@ In this project I worked on a binary classification problem, where I built sever
 
 ### Target class distribution
 ![Feature correlation](https://user-images.githubusercontent.com/78446940/133309571-8251eae6-c7ab-47f3-aa61-dafd23f62a28.PNG)
-## Usage
 
-This project is best viewed in a notebook viewer, which can be accessed [here]. In this notebook, you will find a walk through of the work done and the respective code.
+## Scoring Metric
+
+The scoring metrics I used for this project was chosen in order to pay more attention to the minority class, as a misclassification in the minority class would be more costly. The scoring metrics I used include:
+- Recall
+- F2 Score
+- Matthew's Correlation Coefficient (MCC) Score
+Paying more attention to the first two
 
 ## Business Value
 
