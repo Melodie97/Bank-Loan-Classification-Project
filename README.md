@@ -18,10 +18,10 @@ In this project I worked on a binary classification problem, where I built sever
 ## Findings
 
 ### Feature correlations
-
+![Feature correlation](images/heatmap correlation.png)
 
 ### Target class distribution
-
+![Feature correlation](images/Class distribution.png)
 ## Usage
 
 This project is best viewed in a notebook viewer, which can be accessed here. In this notebook, you will find a walk through of the work done and the respective code.
